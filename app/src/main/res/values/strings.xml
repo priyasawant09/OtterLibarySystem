@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Otter Libaray system</string>
+    <string name="acc">Create Account</string>
+    <string name="hold">Place Hold</string>
+    <string name="manage">Manage System</string>
+    <string name="compScie">Computer Science</string>
+</resources>
